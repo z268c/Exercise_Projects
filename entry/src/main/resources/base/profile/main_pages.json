@@ -1,0 +1,11 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/PropPage",
+    "pages/LinkPage",
+    "pages/ProvidAndConsumePage",
+    "pages/ObservedObjectLinkPage",
+    "pages/ObservedAndObjectLinkPage",
+    "pages/ViewB"
+  ]
+}
